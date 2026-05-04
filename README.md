@@ -14,9 +14,8 @@ The **stm32wb55-ble-dev-board** is a feature-rich embedded development platform 
 
 | PCB Layout | Circuit Schematic |
 |:---:|:---:|
-| ![PCB Layout](docs/PCB_layout.jpg) | ![Schematic](docs/PCB_SCHEMATIC.jpg) |
+| ![PCB Layout](docs/PCB_layout.jpg) | ![Schematic](docs/PCB_SCHEMATIC.jpg) 
 
-> Place your board images in the `docs/` folder and update the paths above accordingly.
 
 ---
 
